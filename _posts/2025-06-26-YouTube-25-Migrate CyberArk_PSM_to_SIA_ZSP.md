@@ -4,7 +4,7 @@ date: 2025-06-26 08:10:10 +1100
 categories: [CyberArk Privilege Cloud]
 tags: [cyberark,privilegecloud,Identity,SIA,ZSP,PSM,CPM]     # TAG names should always be lowercase
 ---
-In this video, we walk through the full process of migrating from CyberArk PSM (Privileged Session Manager) to the CyberArk Secure Internet Access (SIA) ZSP (Zero Standing Privileges) model, specifically for Windows RDP access. Whether you're just exploring ZSP or planning a full migration, this guide covers all the essential steps and configurations you need.
+In this video, we walk through the full process of migrating from CyberArk PSM (Privileged Session Manager) to the CyberArk Secure Infrastructure Access (SIA) ZSP (Zero Standing Privileges) model, specifically for Windows RDP access. Whether you're just exploring ZSP or planning a full migration, this guide covers all the essential steps and configurations you need.
 
 [![Video Preview](https://i.ytimg.com/vi/TDqr6yvKIS4/maxresdefault.jpg)](https://www.youtube.com/watch?v=TDqr6yvKIS4)
 
