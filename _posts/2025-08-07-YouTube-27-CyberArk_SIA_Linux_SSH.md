@@ -9,7 +9,10 @@ Welcome back to the CyberArk SIA series! In this video, we take a deep dive into
 [![Video Preview](https://i.ytimg.com/vi/F176bi8SMWM/maxresdefault.jpg)](https://www.youtube.com/watch?v=F176bi8SMWM)
 
 ## CyberArk Docs
-TBC
+
+[SIA administration](https://docs.cyberark.com/ispss-access/latest/en/content/hometileslps/dpa-lp-tile7.htm)
+
+[Connect to a Linux target](https://docs.cyberark.com/ispss-access/latest/en/content/end-user/dpa_connect-using-ssh-login.htm)
 
 ## Objectives
 
