@@ -6,7 +6,7 @@ tags: [cyberark,privilegecloud,Identity,WPM,SWS,securebrowser,CSB]     # TAG nam
 ---
 In this video, I demonstrate how to set up and use the CyberArk Secure Browser, a purpose-built solution designed to protect access to sensitive web applications and enforce strong authentication.
 
-Whether you’re just getting started with CyberArk Identity Security or looking to expand your knowledge of Secure Web Sessions (SWS), this walkthrough will help you understand how Secure Browser strengthens your organization’s identity and access management strategy.
+Whether you’re just getting started with CyberArk Identity Security or looking to expand your knowledge of Secure Web Sessions (SWS) and CyberArk Secure Browser, this walkthrough will help you understand how Secure Browser strengthens your organization’s identity and access management strategy.
 
 [![Video Preview](https://i.ytimg.com/vi/as3ZrvBWkmg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Oas3ZrvBWkmg)
 
