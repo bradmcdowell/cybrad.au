@@ -9,6 +9,14 @@ You’ll learn how to install SSMS, add it as a PSM application, configure your 
 
 [![Video Preview](https://i.ytimg.com/vi/W4tKdJnAyog/maxresdefault.jpg)](https://www.youtube.com/watch?v=W4tKdJnAyog)
 
+## Microsoft SSMS Download
+
+You can download Microsoft SMSS v19 from [here.](https://learn.microsoft.com/en-us/ssms/release-history)
+
+## CyberArk KB
+
+[How to use Add-PSMApps to create new connection components](https://community.cyberark.com/s/article/How-to-use-Add-PSMApps)
+
 ## Objectives
 
 - Install SQL Server Management Studio (SSMS) - Download from Microsoft and install on each PSM server.
