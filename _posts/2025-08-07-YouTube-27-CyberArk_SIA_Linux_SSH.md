@@ -1,7 +1,7 @@
 ---
 title: "#27 - CyberArk SIA Linux SSH"
 date: 2025-08-07 08:10:10 +1100
-categories: [CyberArk Privilege Cloud]
+categories: [CyberArk SIA]
 tags: [cyberark,privilegecloud,Identity,SIA,ZSP,PSM,PSMP]     # TAG names should always be lowercase
 ---
 Welcome back to the CyberArk SIA series! In this video, we take a deep dive into the SIA Linux SSH use case.

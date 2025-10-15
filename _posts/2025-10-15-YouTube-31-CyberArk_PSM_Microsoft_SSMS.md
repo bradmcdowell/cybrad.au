@@ -1,7 +1,7 @@
 ---
 title: "#31 - CyberArk PSM - Microsoft SQL SMS"
 date: 2025-10-15 08:10:10 +1100
-categories: [CyberArk Identity]
+categories: [CyberArk Privilege Cloud]
 tags: [cyberark,privilegecloud,Identity,PSM,SSMS]     # TAG names should always be lowercase
 ---
 In this video, we’ll walk through the process of configuring Microsoft SQL Server Management Studio (SSMS) to work securely through CyberArk Privileged Session Manager (PSM).

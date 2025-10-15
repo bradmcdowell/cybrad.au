@@ -1,7 +1,7 @@
 ---
 title: "#32 - CyberArk SIA - Microsoft SQL SMS"
 date: 2025-10-15 09:10:10 +1100
-categories: [CyberArk Identity]
+categories: [CyberArk SIA]
 tags: [cyberark,privilegecloud,Identity,SIA,SSMS]     # TAG names should always be lowercase
 ---
 This video demonstrates how to implement CyberArk Secure Infrastructure Access (SIA) to enforce Zero Standing Privilege (ZSP) for Microsoft SQL Server. Learn how to securely manage database access using vaulted credentials and just-in-time, least-privilege access policies.
