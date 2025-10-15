@@ -6,7 +6,7 @@ tags: [cyberark,privilegecloud,Identity,SIA,SSMS]     # TAG names should always 
 ---
 This video demonstrates how to implement CyberArk Secure Infrastructure Access (SIA) to enforce Zero Standing Privilege (ZSP) for Microsoft SQL Server. Learn how to securely manage database access using vaulted credentials and just-in-time, least-privilege access policies.
 
-[![Video Preview](https://i.ytimg.com/vi/WybIieKUkD2c/maxresdefault.jpg)](https://www.youtube.com/watch?v=ybIieKUkD2c)
+[![Video Preview](https://i.ytimg.com/vi/WybIieKUkD2c/maxresdefault.jpg)](https://www.youtube.com/watch?v=WybIieKUkD2c)
 
 ## Objectives
 
