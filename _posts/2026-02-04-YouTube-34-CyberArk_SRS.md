@@ -1,5 +1,5 @@
 ---
-title: "#32 - CyberArk SRS"
+title: "#34 - CyberArk SRS"
 date: 2026-02-04 09:10:10 +1100
 categories: [CyberArk SRS]
 tags: [cyberark,privilegecloud,pamsaas,Identity,srs,sia]     # TAG names should always be lowercase
@@ -8,7 +8,7 @@ This video presents a comprehensive tutorial on setting up and using CyberArk - 
 
 I will walk you through configuring identity connectors for user authentication, establishing connector pools, deploying System and Secure Infrastructure Access (SIA) connectors, and demonstrating key features of the secrets rotation service. The explanation method balances detailed step-by-step lab deployment with conceptual clarifications, illustrating differences from previous systems and showcasing practical password rotation, verification, reconciliation, and target connection scenarios.
 
-[![Video Preview](https://i.ytimg.com/vi/ybIieKUkD2c/maxresdefault.jpg)](https://www.youtube.com/watch?v=ybIieKUkD2c)
+[![Video Preview](https://i.ytimg.com/vi/f6nblG4M9OQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=f6nblG4M9OQ)
 
 ## Objectives
 
