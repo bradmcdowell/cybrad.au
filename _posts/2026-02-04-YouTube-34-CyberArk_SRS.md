@@ -8,7 +8,7 @@ This video presents a comprehensive tutorial on setting up and using CyberArk - 
 
 I will walk you through configuring identity connectors for user authentication, establishing connector pools, deploying System and Secure Infrastructure Access (SIA) connectors, and demonstrating key features of the secrets rotation service. The explanation method balances detailed step-by-step lab deployment with conceptual clarifications, illustrating differences from previous systems and showcasing practical password rotation, verification, reconciliation, and target connection scenarios.
 
-[![Video Preview](https://i.ytimg.com/vi/f6nblG4M9OQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=f6nblG4M9OQ)
+[![Video Preview](https://i.ytimg.com/vi/jHBXRjIn4QI/maxresdefault.jpg)](https://www.youtube.com/watch?v=jHBXRjIn4QI)
 
 ## Objectives
 
