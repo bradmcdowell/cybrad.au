@@ -39,6 +39,16 @@ Here is the regex that was used for the SSH logon account fro SIA.
 .*\@.*\$>exec su {Username}
 Password:>{Password}
 ```
+
+# SIA Videos
+
+The following videos provide a deeper dive into the SIA topics.
+
+[#24 - CyberArk Privilege Cloud ISPSS Architecture Explained](https://youtu.be/s_Yy13sUsv4)
+[#25 - Migrate CyberArk PSM to SIA ZSP for Windows RDP Access](https://youtu.be/TDqr6yvKIS4)
+[#26 - CyberArk SIA Windows Strong Account](https://youtu.be/EsSILQWNVQI)
+[#27 - CyberArk SIA Linux SSH](https://youtu.be/F176bi8SMWM)
+[#32 - CyberArk SIA - Microsoft SQL SMS](https://youtu.be/ybIieKUkD2c)
 - 
 ## Timeline
 
