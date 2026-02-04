@@ -29,9 +29,11 @@ I will walk you through configuring identity connectors for user authentication,
 
 # Reconcile Script
 
-I've made a video on how to configure the Reconcile account (here.)[https://cybrad.au/posts/YouTube-16-ISPSS-Widnows-Reconcile/]
+I've made a video on how to configure the Reconcile account [here.](https://cybrad.au/posts/YouTube-16-ISPSS-Widnows-Reconcile/)
 
 # SIA - SSH Logon Sequernce
+
+Here is the regex that was used for the SSH logon account fro SIA.
 
 ```
 .*\@.*\$>exec su {Username}
